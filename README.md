@@ -4,6 +4,10 @@
 
 ### Пример использования
 
+```bash
+pip install git+https://github.com/MiMoody/batch_api_oi.git
+```
+
 ```python
 import sys
 import logging
